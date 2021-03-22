@@ -1,0 +1,7 @@
+{
+    "name": "examenoverzicht/dummy",
+    "description": "A dummy project to protect the vendor name of examenoverzicht",
+    "require": {
+        "php": ">=7.2"
+    }
+}
